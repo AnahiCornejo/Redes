@@ -1,0 +1,23 @@
+Servidor
+IPv4:172.16.0.33
+IPv6: 2001:DB8:1:B::33
+
+Cliente 1 
+IPv4: 172.16.0.34
+IPv6: 2001:DB8:1:B::34
+
+Cliente 2 
+IPv4: 172.16.0.35
+IPv6: 2001:DB8:1:B::35
+
+Cliente 3 
+IPv4: 172.16.0.36
+IPv6: 2001:DB8:1:B::36
+
+Switch
+IPv4: 172.16.0.62
+IPv6: 2001:DB8:1:B::2
+
+Router
+IPv4:172.16.0.61
+IPv6: 2001:DB8:1:B::1
